@@ -53,7 +53,7 @@ Apa yang membedakan kedua pernyataan di atas?
 > Pernyataan A adalah OPINI
 > Pernyataan B adalah FAKTA
 
-Dikutip Chin dari Customer Experience Somia (artikel bisa dilihat disini [Link to a page]({% link https://medium.com/somia-customer-experience/communicating-effectively-as-designers-facts-vs-opinions-b36081f74159 %})), ketika kamu menemui kejadian yang disebutkan sebelumnya, hal pertama yang dapat kamu lakukan adalah kamu harus bisa **membedakan fakta dan opini.** Yang kedua ketika kamu mengetahui bahwa yang disebutkan oleh stakeholder adalah opini, kamu harus memvalidasi hal tersebut. “Kenapa design saya jelek?”, “Kenapa kamu ga suka warnanya?”. Validasi sampai kamu menemukan alasan yang masuk akal dari mereka.
+Dikutip Chin dari Customer Experience Somia (artikel bisa dilihat disini), ketika kamu menemui kejadian yang disebutkan sebelumnya, hal pertama yang dapat kamu lakukan adalah kamu harus bisa **membedakan fakta dan opini.** Yang kedua ketika kamu mengetahui bahwa yang disebutkan oleh stakeholder adalah opini, kamu harus memvalidasi hal tersebut. “Kenapa design saya jelek?”, “Kenapa kamu ga suka warnanya?”. Validasi sampai kamu menemukan alasan yang masuk akal dari mereka.
 
 Saya sering sekali menemui kejadian di atas, jika sudah seperti itu saya selalu mengkonfirmasi kepada stakeholder. Kadang mereka sampai merasa kesal karena saya terlalu banyak bertanya!
 
