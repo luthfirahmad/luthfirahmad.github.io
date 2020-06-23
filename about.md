@@ -12,20 +12,20 @@ I am a fast-learner, easy for accepting feedbacks and love to work as a team. I 
 
 ### Experience
 
-***Payfazz***
+**Payfazz**
 
 PAYFAZZ (PT Payfazz Teknologi Nusantara) is a financial technology startup from Indonesia that was established in 2016. PAYFAZZ creates a distributed network of bank agents in Indonesia, who performs financial transactions on behalf of unbanked and underbanked customers.
 
-In daily basis i used to research and design using ***Design Thinking*** framework.
+In daily basis i used to research and design using **Design Thinking** framework.
 
-***UX Designer - Digital Banking App***
+**UX Designer - Digital Banking App**
 (2018-present)
 
-***QA Tester - Payfazz App***
+**QA Tester - Payfazz App**
 (2017 - 2018)
 
 ### Contact me
 
 If you have interest to working with me, feel free to contact me
 
-[email@domain.com](mailto:luthfirahmad@gmail.com)
+[luthfirahmad@gmail.com](mailto:luthfirahmad@gmail.com)
