@@ -19,11 +19,11 @@ permalink: /categories/
 </script>
 
 <div>
-  <button id="All" onclick="filterUsingCategory('All')">*Show All Posts*</button>
+  <button class="category-filter" id="All" onclick="filterUsingCategory('All')">Show All Posts</button>
   {% assign categories = site.categories | sort %}
   {% for category in categories %}
     {% assign cat = category | first %}
-    <button id="{{ cat }}" onclick="filterUsingCategory(this.id)">{{ cat }}</button>
+    <button class="category-filter" id="{{ cat }}" onclick="filterUsingCategory(this.id)">{{ cat }}</button>
   {% endfor %}
   <hr />
 </div>
