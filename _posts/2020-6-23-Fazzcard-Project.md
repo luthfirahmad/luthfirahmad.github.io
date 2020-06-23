@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fazzcard Project.
-categories: Project
+categories: Projects
 ---
 
 #### This is my first project as professional UX Designer. This app was for loan and cashback retrieval.
