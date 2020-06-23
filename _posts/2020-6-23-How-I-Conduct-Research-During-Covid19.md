@@ -5,6 +5,8 @@ categories: Articles
 comments: true
 ---
 
+{{page.categories | capitalize | join: ', '}}
+
 #### It’s already fourteen days since Work from Home policy was announced by the company, and i don’t know when this is over.
 
 ![image banner]({{ site.baseurl }}/images/0_6UEnOk3aQkrjrn_O.jpeg)
