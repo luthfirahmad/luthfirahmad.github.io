@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I Conduct Research During COVID-19.
-categories: Blog
+categories: Articles
 ---
 
 #### It’s already fourteen days since Work from Home policy was announced by the company, and i don’t know when this is over.
