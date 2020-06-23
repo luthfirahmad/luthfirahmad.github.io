@@ -38,9 +38,9 @@ Dan lagi, saya tipikal orang yang berputar-putar ketika menjelaskan sesuatu, ist
 
 Tidak hanya di bidang UI/UX saja, setiap divisi pasti ada saat dimana menghadapi situasi seperti ini. Ambil contoh;
 
-> Saya: “Jadi ada temuan bahwa partisipan kesulitan melihat tombol dikarenakan warna tombol tidak terlalu kontras dengan warna background”
-> Kolega: “Jadi kita ada opsi untuk mengambil warna A atau B dikarenakan warnanya cukup friendly. Kita konfirmasi lagi saat testing berikutnya”
-> Stakeholder: “Kayanya dua warna itu ga cocok deh. Gua ga suka!”
+> Saya: “Jadi ada temuan bahwa partisipan kesulitan melihat tombol dikarenakan warna tombol tidak terlalu kontras dengan warna background”    
+Kolega: “Jadi kita ada opsi untuk mengambil warna A atau B dikarenakan warnanya cukup friendly. Kita konfirmasi lagi saat testing berikutnya”  
+Stakeholder: “Kayanya dua warna itu ga cocok deh. Gua ga suka!”
 
 Pernah mengalami hal ini?
 
@@ -50,10 +50,10 @@ Apa yang kamu lakukan jika menemui keadaan seperti itu? Sebelum mengambil keputu
 
 Apa yang membedakan kedua pernyataan di atas?
 
-> Pernyataan A adalah OPINI
-> Pernyataan B adalah FAKTA
+> Pernyataan A adalah OPINI  
+Pernyataan B adalah FAKTA
 
-Dikutip Chin dari Customer Experience Somia (artikel bisa dilihat disini), ketika kamu menemui kejadian yang disebutkan sebelumnya, hal pertama yang dapat kamu lakukan adalah kamu harus bisa **membedakan fakta dan opini.** Yang kedua ketika kamu mengetahui bahwa yang disebutkan oleh stakeholder adalah opini, kamu harus memvalidasi hal tersebut. “Kenapa design saya jelek?”, “Kenapa kamu ga suka warnanya?”. Validasi sampai kamu menemukan alasan yang masuk akal dari mereka.
+Dikutip Chin dari Customer Experience Somia (artikel bisa dilihat [disini](https://medium.com/somia-customer-experience/communicating-effectively-as-designers-facts-vs-opinions-b36081f74159)), ketika kamu menemui kejadian yang disebutkan sebelumnya, hal pertama yang dapat kamu lakukan adalah kamu harus bisa **membedakan fakta dan opini.** Yang kedua ketika kamu mengetahui bahwa yang disebutkan oleh stakeholder adalah opini, kamu harus memvalidasi hal tersebut. “Kenapa design saya jelek?”, “Kenapa kamu ga suka warnanya?”. Validasi sampai kamu menemukan alasan yang masuk akal dari mereka.
 
 Saya sering sekali menemui kejadian di atas, jika sudah seperti itu saya selalu mengkonfirmasi kepada stakeholder. Kadang mereka sampai merasa kesal karena saya terlalu banyak bertanya!
 
@@ -63,7 +63,7 @@ Sebelumnya saya mau mengucapkan terima kasih kepada kolega saya di kantor Nathas
 
 Semua hal-hal kecil tersebut bahkan sampai terbawa ketika rapat, saya selalu menanyakan alasan suatu fitur dibuat; tujuannya apa, sekompleks apa fitur tersebut, hingga berpengaruh setinggi apa terhadap GMV kita.
 
-Saya sedikit menjiplak metode 5 Why’s agar mendapatkan informasi yang cukup mendalam.
+Saya sedikit menjiplak metode [5 Why’s](https://think.design/user-design-research/five-whys/) agar mendapatkan informasi yang cukup mendalam.
 
 **Metode 5 Why’s**
 
@@ -75,7 +75,7 @@ Akar permasalahan dari contoh diatas dapat diketahui bahkan sebelum penanya mena
 
 **Selalu Menjadi Team Player**
 
-![Image Tiga]({{ site.baseurl }}/images/image_3_post_3.png)
+![Image Tiga]({{ site.baseurl }}/images/image_3_post_3.jpeg)
 
 Sebenarnya hal ini bisa dibahas pada topik **Komunikasi.** Namun saya ingin membedakan topik ini, karena menurut saya topik ini juga penting.
 
