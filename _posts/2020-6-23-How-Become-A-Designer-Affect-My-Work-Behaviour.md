@@ -64,3 +64,29 @@ Sebelumnya saya mau mengucapkan terima kasih kepada kolega saya di kantor Nathas
 Semua hal-hal kecil tersebut bahkan sampai terbawa ketika rapat, saya selalu menanyakan alasan suatu fitur dibuat; tujuannya apa, sekompleks apa fitur tersebut, hingga berpengaruh setinggi apa terhadap GMV kita.
 
 Saya sedikit menjiplak metode 5 Why’s agar mendapatkan informasi yang cukup mendalam.
+
+**Metode 5 Why’s**
+
+Cara kerja metode ini adalah kita menanyakan kalimat Mengapa ketika lawan bicara mengemukakan suatu permasalahan. Tujuannya adalah untuk mencari akar masalah dari permasalahan tersebut. Metode ini dapat digambarkan sebagai berikut;
+
+![Image Dua]({{ site.baseurl }}/images/image_2_post_3.png)
+
+Akar permasalahan dari contoh diatas dapat diketahui bahkan sebelum penanya menanyakan Why kelima. Jadi metode tersebut dapat dimodifikasi sesuai kebutuhan. Cocok digunakan saat berdiskusi soal fitur baru atau ketika membicarakan suatu permasalahan.
+
+**Selalu Menjadi Team Player**
+
+![Image Tiga]({{ site.baseurl }}/images/image_3_post_3.png)
+
+Sebenarnya hal ini bisa dibahas pada topik **Komunikasi.** Namun saya ingin membedakan topik ini, karena menurut saya topik ini juga penting.
+
+Sebelumnya saya bilang bahwa divisi saya sekarang selalu mengedepankan team player. Hal itu membuat saya sering berkoordinasi dengan rekan setim saya. Kantor saya bekerja menganut paham remote working, sehingga tidak jarang teman sedivisi saya menggunakan kesempatan tersebut. Namun, terkadang ada hal-hal yang tidak dapat disampaikan secara tak langsung; seperti melalui chat atau video call. Sehingga lebih baik diutarakan secara langsung, agar tidak terjadi miskomunikasi.
+
+Ambil contoh ketika teman saya mengambil remote. Pada grup Slack, salah satu stakeholder meminta perubahan desain pada salah satu screen. Saya tidak menyampaikan lagi hal tersebut dikarenakan ia sudah tergabung pada grup yang sama, sehingga saya berasumsi ia sudah mengetahui hal tersebut. Saat saya menanyakan tentang perubahan pada screen tersebut keesokan harinya, ternyata ia tidak mengetahui bahwa stakeholder berbicara di grup soal hal itu kemarin. Akhirnya saya memberitahunya secara langsung.
+
+Pada saat kami berdua mengubah desain atau mengerjakan screen baru, kami selalu berkomunikasi. Saling memberitahu, agar kami berdua tetap up to date dengan situasi terkini.
+
+---
+
+Itulah work behaviour yang saya baru (beberapa tidak baru, haha) dapatkan selama setahun ini. Sebenarnya ada banyak lagi yang lainnya, namun sepertinya cukup panjang jika dijabarkan semua disini. Terimakasih sudah membaca, clap dan share jika berkenan!
+
+
