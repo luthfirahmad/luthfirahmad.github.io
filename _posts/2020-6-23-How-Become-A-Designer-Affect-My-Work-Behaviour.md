@@ -7,6 +7,8 @@ comments: true
 
 #### Sudah hampir setahun lebih saya bergelut di bidang UI/UX Design. Banyak hal yang saya dapatkan ketika berada di profesi ini.
 
+![image banner]({{ site.baseurl }}/images/image_banner_post_3.jpeg)
+
 Mulai dari melakukan usability testing, memfasilitasi design sprint, hingga sampai menjadi pembicara di event kantor. Ada keadaan dimana saya merasa “This is my best state in life”, namun ada juga keadaan dimana saya merasa bosan karena rutinitas yang berulang-ulang.
 
 Namun saya menikmatinya.
