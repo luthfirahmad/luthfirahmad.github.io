@@ -13,6 +13,10 @@
 /* BASE RULES */
 /**************/
 
+#navbar {
+   overflow: hidden;
+}
+
 .sticky {
   position: fixed;
   top: 0;
