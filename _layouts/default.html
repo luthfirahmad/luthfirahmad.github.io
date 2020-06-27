@@ -17,7 +17,7 @@
 
   <body>
     <div class="wrapper-masthead">
-      <div class="container">
+      <div id="navbar" class="container">
         <header class="masthead clearfix">
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
@@ -48,5 +48,18 @@
     </div>
 
     {% include analytics.html %}
+    <script>
+      window.onscroll = function() {myFunction()};
+      var navbar = document.getElementById("navbar");
+      var sticky = navbar.offsetTop;
+      
+      function myFunction() {
+            if (window.pageYOffset >= sticky) {
+                 navbar.classList.add("sticky")
+            } else {
+                 navbar.classList.remove("sticky");
+              }
+          }
+    </script>
   </body>
 </html>
