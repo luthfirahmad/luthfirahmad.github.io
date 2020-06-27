@@ -21,7 +21,7 @@ In daily basis i used to research and design using **Design Thinking** framework
 
 **UX Designer - Digital Banking App**
 
-(2018-present)
+(2018 - present)
 
 **QA Tester - Payfazz App**
 
