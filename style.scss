@@ -13,6 +13,16 @@
 /* BASE RULES */
 /**************/
 
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+
 button.category-filter {
     padding: 0.5rem 1rem;
     font-size: 1rem;
