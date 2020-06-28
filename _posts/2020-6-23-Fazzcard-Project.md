@@ -21,11 +21,11 @@ After we agreed to fixed flow, we create high fidelity prototype and tested it t
 
 ### Main Features
 
-![main feature image]({{ site.baseurl }})/images/image_2_post_2.png
+![main feature image]({{ site.baseurl }}/images/image_2_post_2.png)
 
 ### Feature Flow
 
-![feature flow image]({{ site.baseurl }})/images/image_3_post_2.png
+![feature flow image]({{ site.baseurl }}/images/image_3_post_2.png)
 
 ### Learnings
 
