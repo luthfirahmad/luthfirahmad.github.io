@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fazzcard Project.
+title: Fazzcard Project
 categories: Projects
 ---
 
