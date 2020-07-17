@@ -9,15 +9,15 @@ comments: true
 
 ![image banner]({{ site.baseurl }}/images/image_1_post_4.jpg)
 
-<p style="text-align: center;">Source: Unsplash</p>
+<p style="text-align: center;">Source: <a href="https://unsplash.com/photos/F85pIdl7cS8">Unsplash</a></p>
 
 > *There is a couple, Stakeholder and Designer. Previously, they have a wonderful and lovely relationship. But recently, the Designer feels that their relationship isn’t going well anymore. She doesn’t happy about Stakeholder’s treatment to her.* 
-\
-\
-*Doesn’t want to lose her, Stakeholder makes a promise that he will change to a better person. Impressed with his gesture, the Designer forgave him.*
-\
-\
-*Time passed, but he still repeating his mistake. Again, the woman still forgiving him, and keep swirling to the toxic relationship. She was blinded by deception.*
+>
+>
+> *Doesn’t want to lose her, Stakeholder makes a promise that he will change to a better person. Impressed with his gesture, the Designer forgave him.*
+>
+>
+> *Time passed, but he still repeating his mistake. Again, the woman still forgiving him, and keep swirling to the toxic relationship. She was blinded by deception.*
 
 That story may be a little bit exaggerated, but we can take a lesson from it. Don’t be a **blinded designer.** What is that?
 
@@ -48,7 +48,6 @@ Although this is rarely happening, sometimes designers were overconfident about 
 This is the most important thing that we should do before we make a feature/product. What is stopping users to reach their goals? As said in The Growth Hacking, you can look to your data before you design something, do some qualitative and quantitative researches to strengthen and support your decisions. Your sign up rate was low? Try to check which flows/screens that have the highest drop and follow up by surveys and user interviews.
 
 ### Make the data as your design base
-
 Got something insightful from your researches? Make the design based on it. For example: From the quantitative research was obtained the user's sign up rate was dropped in filling form screen, and when you interviewed them, they told you that the form was too long. So, you can shorten your sign up form.
 
 ### Testing your design and maintain it
