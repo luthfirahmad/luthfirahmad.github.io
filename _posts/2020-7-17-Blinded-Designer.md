@@ -1,3 +1,16 @@
+---
+layout: post
+title: Blinded Designer
+categories: Articles
+comments: true
+---
+
+#### Here we start with a story.
+
+![image banner]({{ site.baseurl }}/images/image_1_post_4.jpg)
+
+<p style="text-align: center;">Source: Unsplash</p>
+
 > *There is a couple, Stakeholder and Designer. Previously, they have a wonderful and lovely relationship. But recently, the Designer feels that their relationship isn’t going well anymore. She doesn’t happy about Stakeholder’s treatment to her.* 
 \
 \
