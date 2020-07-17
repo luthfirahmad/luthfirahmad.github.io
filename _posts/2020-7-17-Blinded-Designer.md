@@ -45,7 +45,7 @@ Although this is rarely happening, sometimes designers were overconfident about 
 
 ### Do the pre-design researches
 
-This is the most important thing that we should do before we make a feature/product. What is stopping users to reach their goals? As said in The Growth Hacking, you can look to your data before you design something, do some qualitative and quantitative researches to strengthen and support your decisions. Your sign up rate was low? Try to check which flows/screens that have the highest drop and follow up by surveys and user interviews.
+This is the most important thing that we should do before we make a feature/product. What is stopping users to reach their goals? As said in [Hacking Growth](https://www.goodreads.com/book/show/31625067-hacking-growth), you can look to your data before you design something, do some qualitative and quantitative researches to strengthen and support your decisions. Your sign up rate was low? Try to check which flows/screens that have the highest drop and follow up by surveys and user interviews.
 
 ### Make the data as your design base
 Got something insightful from your researches? Make the design based on it. For example: From the quantitative research was obtained the user's sign up rate was dropped in filling form screen, and when you interviewed them, they told you that the form was too long. So, you can shorten your sign up form.
