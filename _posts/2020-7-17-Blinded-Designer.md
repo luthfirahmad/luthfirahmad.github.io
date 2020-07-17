@@ -39,7 +39,7 @@ This related to the previous point, sometimes we don’t curious enough to ask a
 
 ### Overconfidence
 
-Although this is rarely happening, sometimes designers were overconfident about their designs. It was implemented directly without testing it to users first, what happens next is users leave the application because it was hard to use.
+Although this is rarely happening, sometimes designers were overconfident about their design. It was implemented directly without testing it to users first, what happens next is users leave the application because it was hard to use.
 
 ## How we avoid this situation?
 
