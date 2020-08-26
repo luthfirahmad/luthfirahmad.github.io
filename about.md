@@ -30,6 +30,6 @@ In daily basis i used to research and design using **Design Thinking** framework
 
 ## Contact me
 
-If you have interest to working with me[click here](https://luthfirahmad.github.io/hire-me/), or just want to say hi feel free to hit me in:
+If you have interest to working with me [click here](https://luthfirahmad.github.io/hire-me/), or just want to say hi feel free to hit me in:
 
 [luthfirahmad@gmail.com](mailto:luthfirahmad@gmail.com)
