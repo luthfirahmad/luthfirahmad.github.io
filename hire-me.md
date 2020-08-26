@@ -6,7 +6,8 @@ permalink: /hire-me/
 
 Want to add something awesome to your project? I can help you to make a nice and modern interface design with a clear flow and organized information architecture.
 
-# My Design Process
+## My Design Process
+***
 
 I am using design thinking process to all my projects,
 
@@ -26,7 +27,8 @@ After we agreed with the concept, i can start design for you. I make high-fideli
 
 I will test the design to targeted user, make sure the design works well to them.
 
-# Why You Must Hiring Me?
+## Why You Must Hiring Me?
+***
 
 1. **On Time Deliveries**
 
@@ -40,7 +42,8 @@ I will test the design to targeted user, make sure the design works well to them
 
    I can clearly convey the solution to the team and explain the plans that will be carried out to achieve it.
    
-# Tools that I Usually Used
+## Tools that I Usually Used
+***
 
 I prefer to use the recent and modern tools when designing, but i am open to using other tools. I am particularly strong when using these tools:
 
@@ -49,7 +52,8 @@ I prefer to use the recent and modern tools when designing, but i am open to usi
 + Invision
 + Principle
 
-# How to Hire Me
+## How to Hire Me
+***
 
 If the skills and requirements above matching you, and you want me to help you to build a project from scratch, you can [contact me](https://luthfirahmad.typeform.com/to/R4NMRINh).
 
