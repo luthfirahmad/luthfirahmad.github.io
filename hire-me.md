@@ -8,7 +8,7 @@ Want to add something awesome to your project? I can help you to make a nice and
 
 ## My Design Process
 
-------
+======
 
 I am using design thinking process to all my projects,
 
@@ -30,7 +30,7 @@ I will test the design to targeted user, make sure the design works well to them
 
 ## Why You Must Hiring Me?
 
-------
+======
 
 1. **On Time Deliveries**
 
@@ -46,7 +46,7 @@ I will test the design to targeted user, make sure the design works well to them
    
 ## Tools that I Usually Used
 
-------
+======
 
 I prefer to use the recent and modern tools when designing, but i am open to using other tools. I am particularly strong when using these tools:
 
@@ -56,6 +56,8 @@ I prefer to use the recent and modern tools when designing, but i am open to usi
 + Principle
 
 ## How to Hire Me
+
+======
 
 If the skills and requirements above matching you, and you want me to help you to build a project from scratch, you can [contact me](https://luthfirahmad.typeform.com/to/R4NMRINh).
 
