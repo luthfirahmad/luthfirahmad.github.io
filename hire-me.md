@@ -8,6 +8,8 @@ Want to add something awesome to your project? I can help you to make a nice and
 
 ## My Design Process
 
+------
+
 I am using design thinking process to all my projects,
 
 **Define**
@@ -28,6 +30,8 @@ I will test the design to targeted user, make sure the design works well to them
 
 ## Why You Must Hiring Me?
 
+------
+
 1. **On Time Deliveries**
 
    I always respect our agreement and try to deliver the designs before deadline as soon as possible.
@@ -41,6 +45,8 @@ I will test the design to targeted user, make sure the design works well to them
    I can clearly convey the solution to the team and explain the plans that will be carried out to achieve it.
    
 ## Tools that I Usually Used
+
+------
 
 I prefer to use the recent and modern tools when designing, but i am open to using other tools. I am particularly strong when using these tools:
 
