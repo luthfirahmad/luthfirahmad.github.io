@@ -8,12 +8,13 @@ permalink: /about/
 
 Hello, my name is Luthfi Rahmad Susanto. I was working as UX Designer in fintech startup in South Jakarta. I was creating interface and and experience since two years ago, as a profesional.
 
-I have created two company projects, all in mobile application. But i open for another platform (such as dashboard or landing page). My design process was, i gathered all data from pre-design session with methods such as user interview, card sorting, and etc. Those data was synthesized to information architecture in form of low-fidelity prototype. After that i made high-fidelity prototype with Figma or Sketch, and tested it to targeted participant. I am also capable to analyze data tracker, graphics, and serve it as a report for stakeholders.
-
+I have created two company projects, all in mobile application. But i open for another platform (such as dashboard or landing page).
 I am a fast-learner, easy for accepting feedbacks and love to work as a team. I love running, and writing. I created this personal website to express my thinking and documenting every project as portfolio.
 
 
 ## Experience
+
+***
 
 ### Payfazz
 
@@ -31,6 +32,8 @@ In daily basis i used to research and design using **Design Thinking** framework
 
 
 ## Contact me
+
+***
 
 If you have interest to working with me [click here](https://luthfirahmad.github.io/hire-me/), or just want to say hi feel free to hit me in:
 
