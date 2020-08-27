@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![about me](https://github.com/luthfirahmad/luthfirahmad.github.io/blob/master/images/IMG_20181226_214650_762.jpg)
+
 Hello, my name is Luthfi Rahmad Susanto. I was working as UX Designer in fintech startup in South Jakarta. I was creating interface and and experience since two years ago, as a profesional.
 
 I have created two company projects, all in mobile application. But i open for another platform (such as dashboard or landing page). My design process was, i gathered all data from pre-design session with methods such as user interview, card sorting, and etc. Those data was synthesized to information architecture in form of low-fidelity prototype. After that i made high-fidelity prototype with Figma or Sketch, and tested it to targeted participant. I am also capable to analyze data tracker, graphics, and serve it as a report for stakeholders.
@@ -13,7 +15,7 @@ I am a fast-learner, easy for accepting feedbacks and love to work as a team. I 
 
 ## Experience
 
-**Payfazz**
+### Payfazz
 
 PAYFAZZ (PT Payfazz Teknologi Nusantara) is a financial technology startup from Indonesia that was established in 2016. PAYFAZZ creates a distributed network of bank agents in Indonesia, who performs financial transactions on behalf of unbanked and underbanked customers.
 
