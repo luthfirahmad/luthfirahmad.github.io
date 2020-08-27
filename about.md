@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![about me](https://github.com/luthfirahmad/luthfirahmad.github.io/blob/master/images/IMG_20181226_214650_762.jpg)
+![about me]({{ site.baseurl }}/images/IMG_20181226_214650_762.jpg)
 
 Hello, my name is Luthfi Rahmad Susanto. I was working as UX Designer in fintech startup in South Jakarta. I was creating interface and and experience since two years ago, as a profesional.
 
