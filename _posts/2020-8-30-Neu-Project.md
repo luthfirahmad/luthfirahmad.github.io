@@ -10,6 +10,8 @@ categories: Projects
 
 ## Background
 
+***
+
 The initiation came from some product managers, plus company’s urge to extent their market to other segment, Payfazz created a pilot project that targeted to millenial segment.
 
 According to initial research, millenial has high interest to investment activities, but they have lack knowledge about it. So, according to that reason this project has been created. This project was created to raise their awareness about investment and to support their bank activity in one application.
@@ -19,6 +21,8 @@ According to initial research, millenial has high interest to investment activit
 *An app that served financial needs for millenial. With latest design trend using black theme, we served seamless financial experience with modern and elegant user interface.*
 
 ## Research
+
+***
 
 We conduct some interview to gather data about our audience, from the research we got some findings. We have three segmented user from the research:
 
@@ -48,6 +52,8 @@ After we got our audience, we conduct card sorting to define our information arc
 
 ## Design Process Method
 
+***
+
 In each sprint, we use **Design Sprint method**.
 After product team defined their requirement, we started to do live design with all stakeholders (product, front-end and back-end enginner, QA).
 
@@ -71,15 +77,21 @@ We measure how participants complete the tasks when they using our design. We gr
 
 After we conduct testing, we did a survey to participant; how this feature useful for them. This can be an insight for our Project Manager. Can we keep through to release this feature? or Did users feels this feature futile?
 
-### Feature Flow
+## Feature Flow
+
+***
 
 ![feature flow]({{ site.baseurl }}/images/neu_project_featureflow.png)
 
-### Recent Main Feature
+## Recent Main Feature
+
+***
 
 ![recent feature]({{ site.baseurl }}/images/neu_project_mainfeature.png)
 
 ## Learning
+
+***
 
 In this project i learned:
 
