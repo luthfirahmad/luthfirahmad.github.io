@@ -6,7 +6,7 @@ categories: Projects
 
 
 
-#### This is my second project as professional UX Designer. This app was for payment and send money.
+#### This is my second project as professional UX Designer. This app was for payment and investment for millennial segment.
 
 
 ![image banner]({{ site.baseurl }}/images/neu_project_banner.png)
