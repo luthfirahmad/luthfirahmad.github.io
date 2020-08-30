@@ -16,6 +16,8 @@ The initiation came from some product managers, plus company’s urge to extent 
 
 According to initial research, millenial has high interest to investment activities, but they have lack knowledge about it. So, according to that reason this project has been created. This project was created to raise their awareness about investment and to support their bank activity in one application.
 
+![home]({{ site.baseurl }}/images/neu_project_home.png)
+
 ## Research
 
 ***
