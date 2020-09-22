@@ -133,6 +133,7 @@ Doing design sprint make us got feedback from initial phase. This is important, 
 
 ### Test as soon as possible
 
-We make good and intuitive design, but if it can’t ease user’s experience then it was wasteful, both resource and time. So before we handed it over to developer, we test our design to targeted participants. 
+We make good and intuitive design, but if it can’t ease user’s experience then it was wasteful, both resource and time. So before we handed it over to developer, we test our design to targeted participants.
 
-
+\
+You can check this project in this [link](https://play.google.com/store/apps/details?id=com.neu.apps)
