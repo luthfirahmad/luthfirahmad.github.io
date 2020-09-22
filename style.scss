@@ -58,8 +58,8 @@ html {
 
 body {
   background: $white;
-  font: 18px/1.4 $merriweather;
-  color: #4D4D4D;
+  font: 18px/1.4 $roboto;
+  color: #333333;
 }
 
 .container {
@@ -70,7 +70,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $roboto;
   color: $darkerGray;
   font-weight: bold;
 
@@ -299,8 +299,8 @@ nav {
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 22px;
-    font-style: italic;
+    font-size: 18px;
+    font-style: normal;
   }
 
   .comments {
