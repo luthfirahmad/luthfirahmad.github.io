@@ -44,3 +44,6 @@ In testing session, we use **guerilla and five seconds test**.
 3. **Test as soon as possible**, we make good and intuitive design, but if it can’t ease user’s experience then it was wasteful, both resource and time. So before we handed it over to developer, we test our design to targeted participants. 
 
 In the end of the day, our team was succeeded to released this project in Playstore and Appstore.
+
+\
+You can check this project in this [link](https://play.google.com/store/apps/details?id=com.fazzcard.android&hl=en_SG)
