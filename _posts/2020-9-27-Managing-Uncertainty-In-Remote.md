@@ -57,7 +57,7 @@ Our team has two sections of the stand-up meetings in a day. First, at the start
 
 Second, at the end of the day, we submit a stand-up via Slack bot. That report contains what tasks have been done by us on that day.
 
-So, the team keeps informed about our progress.
+So, the team keeps informed about our progress.<br />
 <br />
 
 ## When Wireframing and Designing 🎨
@@ -78,7 +78,7 @@ After doing a brainstorming session, make sure all stakeholders were agreed with
 
 In our team, we using Figma. So all stakeholders can see our progress when designing. If you are using Figma too, make sure you put the link in a place where it is easily seen, so the team can keep updated.
 
-Usually, we create a temporary multi-chat channel in Slack with engineers and products team to report our updates, we also update our asana board to inform the team how far we are progressing
+Usually, we create a temporary multi-chat channel in Slack with engineers and products team to report our updates, we also update our asana board to inform the team how far we are progressing.<br />
 <br />
 
 ## When in Testing 🧪
@@ -91,7 +91,7 @@ When I doing usability testing, I always put status in my Slack account to show 
 
 After doing testing, usually, you plan the meeting for presenting your result. In normal times, you can just ask the team at what time they were available. But at this time, you must create a schedule that works for everyone.
 
-You can use Google calendar to check the available time for each team member. So they can’t be missed sharing time session. We also use the Google calendar plugin in Slack, so people can get the notification about the session.
+You can use Google calendar to check the available time for each team member. So they can’t be missed sharing time session. We also use the Google calendar plugin in Slack, so people can get the notification about the session.<br />
 <br />
 
 ## Pre-Release 🚀
@@ -102,8 +102,8 @@ After the developer/engineer finished build the apps, usually they give it to QA
 
 If there is a mismatch, usually we tell the engineers to fix it. We informed them through a special channel in Slack. In this channel, there is a plugin that is connected to the engineer’s board in Asana.
 
-So, if we input our fixing specification through this channel, a board will be created in their Asana,  and they will be notified via email.
-
+So, if we input our fixing specification through this channel, a board will be created in their Asana,  and they will be notified via email.<br />
+<br />
 
 So, there are some tips from me that I usually use in remote working time. You can build trust and better communication with the team with all these tips.
 
