@@ -129,7 +129,7 @@ So, if we input our fixing specification through this channel, a board will be c
 
 ![Task delegate bot]({{ site.baseurl }}/images/image_7_post_7.png)
 
-<p style="text-align: center;font-size: 12px;">With this bot, it ease our collaboration with developer</p>
+<p style="text-align: center;font-size: 12px;">With this channel, it ease our collaboration with developer</p>
 <br />
 
 So, there are some tips from me that I usually use in remote working time. You can build trust and better communication with the team with all these tips.
