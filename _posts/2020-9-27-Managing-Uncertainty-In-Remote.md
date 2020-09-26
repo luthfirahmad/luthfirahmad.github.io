@@ -48,6 +48,7 @@ Some of us have the convenience to ask something through chat, either via Slack 
 ![Ask directly rather than chat]({{ site.baseurl }}/images/image_1_post_7.png)
 
 <p style="text-align: center;">You don't want this happen to you right?</p>
+</br>
 
 ### Find documentation in an easy place to find
 
@@ -59,6 +60,7 @@ In our team, we use Asana to place all documentation links, we also put the link
 ![PRD documentation]({{ site.baseurl }}/images/image_2_post_7.png)
 
 <p style="text-align: center;">We update documentation in Asana and Slack channel</p>
+</br>
 
 ### Always reporting in the stand-up
 
@@ -90,6 +92,7 @@ You can use Whimsical or Balsamiq
 ![How we update our progress]({{ site.baseurl }}/images/image_4_post_7.png)
 
 <p style="text-align: center;">We update our progress in Asana and Slack multichat</p>
+<br />
 
 After doing a brainstorming session, make sure all stakeholders were agreed with the result. Make sure it can be built by the engineer, fulfilled team expectations. You can take the next step into high fidelity design session.
 
@@ -102,10 +105,6 @@ Usually, we create a temporary multi-chat channel in Slack with engineers and pr
 
 ### Tell everyone you’re doing testing
 
-![Slack status update]({{ site.baseurl }}/images/image_5_post_7.png)
-
-<p style="text-align: center;">I updated my Slack status to tell everyone in team what i am doing right now</p>
-
 When I doing usability testing, I always put status in my Slack account to show I am on duty. So it makes the team know that I am busy and can’t be disturbed.
 
 ### Make the respected schedule for each other 📅
@@ -116,8 +115,7 @@ You can use Google calendar to check the available time for each team member. So
 
 ![Google Calendar]({{ site.baseurl }}/images/image_6_post_7.png)
 
-<p style="text-align: center;">With Google Calendar, you can see availability time of your teammate</p><br />
-<br />
+<p style="text-align: center;">With Google Calendar, you can see availability time of your teammate</p>
 
 ## Pre-Release 🚀
 
@@ -131,7 +129,7 @@ So, if we input our fixing specification through this channel, a board will be c
 
 ![Task delegate bot]({{ site.baseurl }}/images/image_7_post_7.png)
 
-<p style="text-align: center;">With this bot, it ease our collaboration with developer</p><br />
+<p style="text-align: center;">With this bot, it ease our collaboration with developer</p>
 <br />
 
 So, there are some tips from me that I usually use in remote working time. You can build trust and better communication with the team with all these tips.
