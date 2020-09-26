@@ -5,7 +5,7 @@ categories: Article
 ---
 
 
-## It’s been almost seven months I working from home, it’s been a roller coaster ride in here.
+#### It’s been almost seven months I working from home, it’s been a roller coaster ride in here.
 
 \
 Everything has changed, from offline to online. Meeting with stakeholders, doing testing with users, and celebrating someone's birthday which previously could be done directly, now can only be done through a digital screen.
@@ -24,7 +24,7 @@ Fast-paced development time and tight deadlines are the factors that we should c
 
 I have some tips that I usually use when facing the situations above. You can implement these tips when you are collaborating with others. I will break it down into four stages.
 
-\
+
 ## When in Kick-off meeting 🧑‍💻
 
 ### I will do L-A-F ❤️
@@ -60,7 +60,7 @@ Second, at the end of the day, we submit a stand-up via Slack bot. That report c
 
 So, the team keeps informed about our progress.
 
-\
+
 ## When Wireframing and Designing 🎨
 
 ### Live (stream) Wireframing
@@ -81,7 +81,7 @@ In our team, we using Figma. So all stakeholders can see our progress when desig
 
 Usually, we create a temporary multi-chat channel in Slack with engineers and products team to report our updates, we also update our asana board to inform the team how far we are progressing.
 
-\
+
 ## When in Testing 🧪
 
 ### Tell everyone you’re doing testing
@@ -94,7 +94,7 @@ After doing testing, usually, you plan the meeting for presenting your result. I
 
 You can use Google calendar to check the available time for each team member. So they can’t be missed sharing time session. We also use the Google calendar plugin in Slack, so people can get the notification about the session.
 
-\
+
 ## Pre-Release 🚀
 
 ### Check the live design with your concept
@@ -105,7 +105,7 @@ If there is a mismatch, usually we tell the engineers to fix it. We informed the
 
 So, if we input our fixing specification through this channel, a board will be created in their Asana,  and they will be notified via email.
 
-\
+
 So, there are some tips from me that I usually use in remote working time. You can build trust and better communication with the team with all these tips.
 
 Thank you for reading!
