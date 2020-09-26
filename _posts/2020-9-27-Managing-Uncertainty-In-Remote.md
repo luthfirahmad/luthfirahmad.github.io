@@ -47,7 +47,7 @@ Some of us have the convenience to ask something through chat, either via Slack 
 
 ![Ask directly rather than chat]({{ site.baseurl }}/images/image_1_post_7.png)
 
-<p style="text-align: center;">You don't want this happen to you right?</p>
+<p style="text-align: center;font-size: 10px;">You don't want this happen to you right?</p>
 </br>
 
 ### Find documentation in an easy place to find
