@@ -7,7 +7,6 @@ categories: Article
 
 #### It’s been almost seven months I working from home, it’s been a roller coaster ride in here.
 
-\
 Everything has changed, from offline to online. Meeting with stakeholders, doing testing with users, and celebrating someone's birthday which previously could be done directly, now can only be done through a digital screen.
 
 It wasn’t so much different when we started a discussion in making new features. With an agile workflow in our environment, it can be challenging for us to maintain communication.
@@ -22,8 +21,8 @@ Fast-paced development time and tight deadlines are the factors that we should c
 
 * or else
 
-I have some tips that I usually use when facing the situations above. You can implement these tips when you are collaborating with others. I will break it down into four stages.
-
+I have some tips that I usually use when facing the situations above. You can implement these tips when you are collaborating with others. I will break it down into four stages.  
+<br />
 
 ## When in Kick-off meeting 🧑‍💻
 
@@ -59,7 +58,7 @@ Our team has two sections of the stand-up meetings in a day. First, at the start
 Second, at the end of the day, we submit a stand-up via Slack bot. That report contains what tasks have been done by us on that day.
 
 So, the team keeps informed about our progress.
-
+<br />
 
 ## When Wireframing and Designing 🎨
 
@@ -79,8 +78,8 @@ After doing a brainstorming session, make sure all stakeholders were agreed with
 
 In our team, we using Figma. So all stakeholders can see our progress when designing. If you are using Figma too, make sure you put the link in a place where it is easily seen, so the team can keep updated.
 
-Usually, we create a temporary multi-chat channel in Slack with engineers and products team to report our updates, we also update our asana board to inform the team how far we are progressing.
-
+Usually, we create a temporary multi-chat channel in Slack with engineers and products team to report our updates, we also update our asana board to inform the team how far we are progressing
+<br />
 
 ## When in Testing 🧪
 
@@ -93,7 +92,7 @@ When I doing usability testing, I always put status in my Slack account to show 
 After doing testing, usually, you plan the meeting for presenting your result. In normal times, you can just ask the team at what time they were available. But at this time, you must create a schedule that works for everyone.
 
 You can use Google calendar to check the available time for each team member. So they can’t be missed sharing time session. We also use the Google calendar plugin in Slack, so people can get the notification about the session.
-
+<br />
 
 ## Pre-Release 🚀
 
