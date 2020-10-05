@@ -2,6 +2,7 @@
 layout: post
 title: Managing Uncertainty when Doing Remote
 image: "images/Thumbnail.png"
+twitter: "images/Twiiter_Thumbnail.png"
 categories: Articles
 ---
 
