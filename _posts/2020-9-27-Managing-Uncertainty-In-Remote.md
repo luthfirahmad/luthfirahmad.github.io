@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Managing Uncertainty when Doing Remote
-image: images/Thumbnail.png
+image: luthfirahmad.github.io/images/Thumbnail.png
 categories: Articles
 ---
 
