@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mempermudah Analisis dengan Thematic Analysis
+title: Mempermudah Analisis Kualitatif dengan Thematic Analysis
 image: "images/Thumbnail.png"
 twitter: "images/Twiiter_Thumbnail.png"
 categories: Articles
