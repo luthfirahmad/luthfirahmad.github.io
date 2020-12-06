@@ -31,7 +31,7 @@ Dari pertanyaan di atas didapatkan salah satu respon seperti ini:
 ## Coding
 Dari data yang didapat, *highlight* kata-kata yang menurut kamu penting dan patut diperhatikan secara khusus. Setelah kamu meng-*highlight* kata-kata tersebut, ubah ke dalam bentuk "kode" yang merepresentasikan kata-kata tersebut.  
 
-Pastikan kamu meng-*highlight* seluruh transkrip hasil interview atau survey yang telah kamu lakukan. Jika kamu merasa kata selanjutnya masih masuk ke dalam "kode" yang sama, kelompokkan kata tersebut ke dalam "kode" tersebut, atau kamu bisa menambahkan "kode" baru jika kata tersebut tidak cocok ditempatkan pada "kode" yang telah tersedia. Tujuan dibuatnya "kode" ini adalah untuk **mengambil ide pokok atau intisari dari transcript interview.** 
+Pastikan kamu meng-*highlight* seluruh transkrip hasil interview atau survey yang telah kamu lakukan. Jika kamu merasa kata selanjutnya masih masuk ke dalam "kode" yang sama, kelompokkan kata itu ke dalam "kode" tersebut, atau kamu bisa menambahkan "kode" baru jika kata tersebut tidak cocok ditempatkan pada "kode" yang telah tersedia. Tujuan dibuatnya "kode" ini adalah untuk **mengambil ide pokok atau intisari dari transcript interview.** 
 
 ![Contoh Code]({{ site.baseurl }}/images/Code.png)
 
