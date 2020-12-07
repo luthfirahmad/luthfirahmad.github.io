@@ -58,5 +58,6 @@ Sampai di tahap akhir, waktunya kamu menyampaikan hasil analisis. Kamu bisa mema
 Dari contoh yang kita buat didapatkan kesimpulan bahwa: masyarakat berpendapat misinformasi terhadap gejala serta wabah COVID19 menyebabkan mereka tidak percaya lagi terhadap tenaga kesehatan, selain itu kekhawatiran terhadap ekonomi membuat mereka nekat beraktivitas untuk memenuhi kebutuhan sehari-hari.
 
 
-\
+
+## Kesimpulan
 *Thematic analysis* sangat cocok digunakan untuk menganalisis data kualitatif yang jumlahnya mungkin sangat banyak dengan cepat dan mudah. Namun, dikarenakan analisis ini sangat subjektif, pengelompokkan dan penilaian setiap tema hanya mengandalkan intuisi dan skill dari orang yang menganalisis data-data tersebut. Oleh karena itu, ketika melakukan analisis harus dilakukan secara teliti dan intepretasi dari setiap data harus jelas.
