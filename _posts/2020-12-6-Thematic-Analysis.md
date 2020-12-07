@@ -8,7 +8,7 @@ categories: Articles
 
 #### Metode ini biasanya digunakan untuk menganalisis riset kualitatif.
 
-Sebagai seorang UX Designer yang merangkap seorang Researcher, tidak jarang juga gua melakukan riset-riset yang membantu untuk menjawab hipotesis-hipotesis yang dibuat oleh tim. Baik riset sebelum desain maupun setelah desain. Biasanya untuk riset sebelum memulai desain, atau biasa disebut *exploration research*, gua melakukan metode seperti interview ataupun survey.  
+Sebagai seorang UX Designer yang merangkap seorang Researcher, tidak jarang juga gua melakukan riset-riset yang membantu untuk menjawab hipotesis-hipotesis yang dibuat oleh tim. Baik riset sebelum desain maupun setelah desain. Biasanya untuk riset sebelum memulai desain, atau biasa disebut *exploration research*, gua melakukan metode seperti interview ataupun *open ended survey.*  
 
 Setelah melakukan interview ataupun survey kepada partisipan, pasti kita akan menganalisis hasil riset yang telah didapat. Biasanya untuk menganalisis metode kualitatif seperti ini gua menggunakan metode yang dinamakan **thematic analysis.** Metode ini cocok digunakan untuk menganalisis hasil transkrip interview, respon survey, dan sebagainya. Dikarenakan metode ini bertujuan untuk mengambil opini, intisari, pengalaman serta pandangan partisipan.  
 
@@ -61,3 +61,6 @@ Dari contoh yang kita buat didapatkan kesimpulan bahwa: masyarakat berpendapat m
 
 ## Kesimpulan
 *Thematic analysis* sangat cocok digunakan untuk menganalisis data kualitatif yang jumlahnya mungkin sangat banyak dengan cepat dan mudah. Namun, dikarenakan analisis ini sangat subjektif, pengelompokkan dan penilaian setiap tema hanya mengandalkan intuisi dan skill dari orang yang menganalisis data-data tersebut. Oleh karena itu, ketika melakukan analisis harus dilakukan secara teliti dan intepretasi dari setiap data harus jelas.
+
+\
+Sumber: [How to do thematic analysis](https://www.scribbr.com/methodology/thematic-analysis/)
